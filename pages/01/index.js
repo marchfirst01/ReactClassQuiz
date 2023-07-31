@@ -6,12 +6,12 @@ export default function FaqPage() {
     <>
       <Wrapper>
         <SearchWrapper>
-          <SearchIcon src="img/search.png" />
+          <SearchIcon src="img-01/search.png" />
         </SearchWrapper>
         <MyWrapper>
           <MyTitle>마이</MyTitle>
           <ProfileWrapper>
-            <ProfileImg src="img/profileImage.png" />
+            <ProfileImg src="img-01/profileImage.png" />
             <ProfileName>임정아</ProfileName>
           </ProfileWrapper>
         </MyWrapper>
@@ -27,42 +27,42 @@ export default function FaqPage() {
             <QuestionNumber>Q.01</QuestionNumber>
             <QuestionContent>리뷰 작성은 어떻게 하나요?</QuestionContent>
           </QuestionWrapper>
-          <ArrowDown src="img/arrow-down.png" />
+          <ArrowDown src="img-01/arrow-down.png" />
         </ContentWrapper>
         <ContentWrapper>
           <QuestionWrapper>
             <QuestionNumber>Q.02</QuestionNumber>
             <QuestionContent>리뷰 수정/삭제는 어떻게 하나요?</QuestionContent>
           </QuestionWrapper>
-          <ArrowDown src="img/arrow-down.png" />
+          <ArrowDown src="img-01/arrow-down.png" />
         </ContentWrapper>
         <ContentWrapper>
           <QuestionWrapper>
             <QuestionNumber>Q.03</QuestionNumber>
             <QuestionContent>아이디/비밀번호를 잊어버렸어요</QuestionContent>
           </QuestionWrapper>
-          <ArrowDown src="img/arrow-down.png" />
+          <ArrowDown src="img-01/arrow-down.png" />
         </ContentWrapper>
         <ContentWrapper>
           <QuestionWrapper>
             <QuestionNumber>Q.04</QuestionNumber>
             <QuestionContent>회원탈퇴를 하고싶어요.</QuestionContent>
           </QuestionWrapper>
-          <ArrowDown src="img/arrow-down.png" />
+          <ArrowDown src="img-01/arrow-down.png" />
         </ContentWrapper>
         <ContentWrapper>
           <QuestionWrapper>
             <QuestionNumber>Q.05</QuestionNumber>
             <QuestionContent>출발지 설정은 어떻게 하나요?</QuestionContent>
           </QuestionWrapper>
-          <ArrowDown src="img/arrow-down.png" />
+          <ArrowDown src="img-01/arrow-down.png" />
         </ContentWrapper>
         <ContentWrapper>
           <QuestionWrapper>
             <QuestionNumber>Q.06</QuestionNumber>
             <QuestionContent>비밀번호를 변경하고 싶어요.</QuestionContent>
           </QuestionWrapper>
-          <ArrowDown src="img/arrow-down.png" />
+          <ArrowDown src="img-01/arrow-down.png" />
         </ContentWrapper>
         <Line></Line>
         <NavigationWrapper>
